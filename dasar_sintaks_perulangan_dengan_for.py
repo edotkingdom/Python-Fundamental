@@ -1,3 +1,4 @@
+
 jumlah_buku_yang_harus_dibaca = 100
 print("Ibu Menyuruh membaca")
 jumlah_yang_dibaca = 0
